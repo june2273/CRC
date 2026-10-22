@@ -1,0 +1,11 @@
+.venv/
+.idea/
+.claude/
+__pycache__/
+.DS_Store
+
+# Coursework submissions (student ID) and course material
+C289028*
+*.zip
+*.pdf
+*.docx
